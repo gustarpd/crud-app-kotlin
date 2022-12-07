@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">crud-app-kotlin</string>
+    <string name="subscriber_email_hint">Email</string>
+    <string name="subscriber_button">Adicionar</string>
+    <string name="subscriber_name_hint">Nome do usuário</string>
+    <string name="subscriber_inserted_sucessfully">Usuário inserido com sucesso</string>
+    <string name="subscriber_error">Ocorreu um erro, tente novamente!</string>
 </resources>
